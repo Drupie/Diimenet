@@ -1,0 +1,10 @@
+h1,h2,h3,h4,h5{
+    text-align: center;
+}
+.resolve section{
+    width: 200px;
+    height: 200px;
+    margin:10px auto;
+    background-color: #000;
+    border-radius: 50%;
+}
